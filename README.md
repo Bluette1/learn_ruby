@@ -1,3 +1,8 @@
+
+[![Run on Repl.it](https://repl.it/badge/github/Bluette1/learn_ruby)](https://repl.it/github/Bluette1/learn_ruby)
+
+
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
